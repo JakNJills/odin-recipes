@@ -1,6 +1,7 @@
 body {
     font-family: "Merriweather Sans", Verdana, "Geneva", Tahoma, sans-serif;
     margin: 0;
+    padding: 0;
     background-color: hsl(30, 69%, 67%);
     color: hsl(25, 34%, 33%);
 }
