@@ -6,4 +6,17 @@ body {
 
 h1 {
     background-color: hsl(353, 93%, 42%);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    margin: 0 auto 10px;
+    font-size: 2rem;
+    text-align: center;
+    width: 100%;
+    color: hsl(0, 0%, 100%);
+    
+
+}
+
+.changes {
+    display: block;
+    font-size: 1.7rem;
 }
